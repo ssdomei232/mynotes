@@ -6,3 +6,7 @@
 -- [Sean Carroll](https://nautil.us/the-sean-carrolls-explain-the-universe-1171296/)，进化生物学家
 * 除非手机可以当成电脑使用，否则我不打算再为性能升级手机了，不再为越来越快的 CPU 买单了。
 -- [Android Authority 专栏作家](https://www.androidauthority.com/phone-pc-performance-3504716/)
+* 强大的工程师不在于速度快或产出高，而在于能够完成其他工程师无法完成的任务。弱小的工程师几乎任何任务都完成不了。
+
+如果你和一个弱小的工程师一起工作，你可以帮他，但一定要保护好你的时间，防止他把你的时间都消耗光。
+-- [《强大的工程师与弱小的工程师》](https://www.seangoedecke.com/weak-engineers/)
