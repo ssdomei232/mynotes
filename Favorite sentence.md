@@ -11,3 +11,7 @@
 -- [《强大的工程师与弱小的工程师》](https://www.seangoedecke.com/weak-engineers/)
 * 人工智能并不是释放我们的想象力，而是外包它们。
 -- [英国《卫报》](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit)
+* 正常的小说是自然的顺序，第一章介绍英雄，第二章是英雄开始行动。
+但是，你可以交换这两章，现在第一章是英雄开始行动，小说可能以一把枪指着英雄的头部开始。就在紧张气氛达到顶峰时，然后是第二章介绍英雄。这样的话，读者就更有理由想了解这个角色。
+同理，先演示幻灯片的第二部分，可能有同样的效果。
+-- [《从第二张幻灯片开始演示》](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
