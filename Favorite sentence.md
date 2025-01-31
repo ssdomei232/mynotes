@@ -18,5 +18,4 @@
 * 互联网早就不是缺少管制、充满颠覆性创新的领域了，如今人们正在寻找一种新的监管和治理框架，以应对极少数大型数字企业对互联网的垄断。
 -- [《2024年 IP 地址报告》](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * 如果你仔细想想，最好的书实际上是一个极其漫长的咒语，它让你在余生中变成另一个人。
-
 -- [@thisone0verhere.bsky.social](https://bsky.app/profile/thisone0verhere.bsky.social/post/3ld4fibye4s2s)
