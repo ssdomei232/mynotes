@@ -7,6 +7,7 @@
 * 除非手机可以当成电脑使用，否则我不打算再为性能升级手机了，不再为越来越快的 CPU 买单了。
 -- [Android Authority 专栏作家](https://www.androidauthority.com/phone-pc-performance-3504716/)
 * 强大的工程师不在于速度快或产出高，而在于能够完成其他工程师无法完成的任务。弱小的工程师几乎任何任务都完成不了。
-
 如果你和一个弱小的工程师一起工作，你可以帮他，但一定要保护好你的时间，防止他把你的时间都消耗光。
 -- [《强大的工程师与弱小的工程师》](https://www.seangoedecke.com/weak-engineers/)
+* 人工智能并不是释放我们的想象力，而是外包它们。
+-- [英国《卫报》](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit)
