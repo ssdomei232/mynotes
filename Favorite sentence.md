@@ -4,3 +4,5 @@
 -- [《美国比欧洲好吗？》](https://walkingtheworld.substack.com/p/us-is-better-than-europe)
 * 一个生物学家说过："每个细菌的梦想都是变成两个。" 这是生活的基本真理：你经历的一切只是使自己更加重要的一种手段。
 -- [Sean Carroll](https://nautil.us/the-sean-carrolls-explain-the-universe-1171296/)，进化生物学家
+* 除非手机可以当成电脑使用，否则我不打算再为性能升级手机了，不再为越来越快的 CPU 买单了。
+-- [Android Authority 专栏作家](https://www.androidauthority.com/phone-pc-performance-3504716/)
