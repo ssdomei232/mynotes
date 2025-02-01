@@ -17,3 +17,6 @@
 -- [《从第二张幻灯片开始演示》](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * 如果你仔细想想，最好的书实际上是一个极其漫长的咒语，它让你在余生中变成另一个人。
 -- [@thisone0verhere.bsky.social](https://bsky.app/profile/thisone0verhere.bsky.social/post/3ld4fibye4s2s)
+
+* 人的智力高低，未来不会像现在这样重要，AI 可以弥补人的智力。提出正确问题的能力，在未来比找到答案的能力更重要。
+-- [Sam Altman](https://finance.sina.cn/7x24/2025-01-15/detail-inefaiqy4871246.d.html)，OpenAI 公司的 CEO。这令人想到，中国的应试教育考察的是，谁能记住最多的正确答案，真的需要改了。
