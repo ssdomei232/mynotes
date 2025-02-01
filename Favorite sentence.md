@@ -20,3 +20,5 @@
 
 * 人的智力高低，未来不会像现在这样重要，AI 可以弥补人的智力。提出正确问题的能力，在未来比找到答案的能力更重要。
 -- [Sam Altman](https://finance.sina.cn/7x24/2025-01-15/detail-inefaiqy4871246.d.html)，OpenAI 公司的 CEO。这令人想到，中国的应试教育考察的是，谁能记住最多的正确答案，真的需要改了。
+* SpaceX 公司的每一项战略，都是根据是否有利于登陆火星来评估的，这解释了那些在外界看来疯狂的举动。在 SpaceX 看来，无法登陆火星才是唯一重要的风险。如果马斯克觉得，摧毁 SpaceX 公司会增加登陆火星的机率，他会毫不犹豫地这么做。
+-- SpaceX 公司传记《Reentry》（重返大气层）的[读后感](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)
