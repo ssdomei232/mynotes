@@ -22,3 +22,6 @@
 -- [Sam Altman](https://finance.sina.cn/7x24/2025-01-15/detail-inefaiqy4871246.d.html)，OpenAI 公司的 CEO。这令人想到，中国的应试教育考察的是，谁能记住最多的正确答案，真的需要改了。
 * SpaceX 公司的每一项战略，都是根据是否有利于登陆火星来评估的，这解释了那些在外界看来疯狂的举动。在 SpaceX 看来，无法登陆火星才是唯一重要的风险。如果马斯克觉得，摧毁 SpaceX 公司会增加登陆火星的机率，他会毫不犹豫地这么做。
 -- SpaceX 公司传记《Reentry》（重返大气层）的[读后感](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)
+* 我的编程风格是"面向痛苦的编程"。什么问题让我痛苦，我就去解决它，最痛苦的，最先解决，不痛苦的，就不去碰它。
+这种编程可以确保你始终在做重要的事情，从而极大地降低了风险
+-- [《面向痛苦的编程》](http://nathanmarz.com/blog/suffering-oriented-programming.html)
