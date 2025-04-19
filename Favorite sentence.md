@@ -25,3 +25,6 @@
 * 我的编程风格是"面向痛苦的编程"。什么问题让我痛苦，我就去解决它，最痛苦的，最先解决，不痛苦的，就不去碰它。
 这种编程可以确保你始终在做重要的事情，从而极大地降低了风险
 -- [《面向痛苦的编程》](http://nathanmarz.com/blog/suffering-oriented-programming.html)
+* 现在的社交媒体，不看重优质内容，而看重互动，看重通过货币化和 AI 吸引更多的流量。
+这导致用户会被欺骗，会被诱导产生情绪波动，而看不到真正的创作和真实性。
+-- [《没有人应该成为"内容创造者"》](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
