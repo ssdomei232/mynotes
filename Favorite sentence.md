@@ -32,3 +32,7 @@
 —— Garry Tan，硅谷风险投资家
 * 简单的东西很难卖出去，因为简单的东西看起来很容易，谁愿意为容易买单呢？商人们早已明白这个秘密，容易的东西往往被包装成复杂的东西，让用户觉得它很特别，从而为这种特别性付出高价。 —— 《贩卖复杂性》
 * 人们首先解决生存需要，然后寻求实用性，接着追求舒适性，后来又享受快乐，从而变得荒唐奢侈，最终变得疯狂并浪费物质。 —— [维柯](https://libquotes.com/giambattista-vico/quote/lbs9r7u)
+* AI 伴侣可以减少孤独感，但是会产生新的问题。它可能取代人际互动，让你丧失基本社交技能，从而变得更加孤立。
+-- [哈佛商学院的一项研究](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)
+* 简单和优雅不受欢迎，因为它们需要努力工作和纪律才能实现。
+-- [Edsger Dijkstra](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)，著名计算机科学家
