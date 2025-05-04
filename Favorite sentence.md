@@ -36,3 +36,11 @@
 -- [哈佛商学院的一项研究](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)
 * 简单和优雅不受欢迎，因为它们需要努力工作和纪律才能实现。
 -- [Edsger Dijkstra](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)，著名计算机科学家
+* 企业编程必须始终依赖流程，而不是个人。
+
+个人能力很重要，应该鼓励，但不能指望它，否则软件质量将不一致，没有可持续性。一旦顶级程序员跳槽，公司就会陷入困境。
+
+企业应该努力改进工作流程，而不是努力改进人员，始终坚持流程优先于人员。
+-- [《创作系统，而不是创造英雄》](https://vitonsky.net/blog/2024/10/11/system-approach/)
+* 我喜欢软件，因为软件可以创造无限可能性和一种非凡的民主。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=42508594)
