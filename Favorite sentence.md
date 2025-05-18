@@ -44,3 +44,5 @@
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=42508594)
 * 两个想法之间的差距越大，它们的结合就越具有原创性和令人惊讶性。
 -- [尤德·肯尼特](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)（Yoed Kenett），美国心理学家
+* 人们在夜晚和周末所做的事情，代表了世界上所有未充分利用的时间和精力。
+-- [安德鲁·陈《冷启动问题》](https://andrewchen.com/solve-a-hard-problem-cold-start-problem/)
