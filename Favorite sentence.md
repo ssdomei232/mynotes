@@ -52,6 +52,5 @@
 * 宇宙有两种可能：要么我们是孤独的，要么我们并不孤独。这两种可能性都同样令人恐惧。
 -- [阿瑟·克拉克](https://www.planetary.org/articles/the-fermi-paradox-where-are-all-the-aliens)，英国著名科幻小说家
 * 我关注了一些教育工作者，他们都报告了同样的现象：他们的学生什么事情都用 ChatGPT，结果什么也没学到。
-
 最终可能会出现这样一代人，自己的智力很低下，完全依赖于他们不理解的技术，一旦技术崩溃，他们永远无法从头开始重建。
 -- [尼尔·斯蒂芬森](https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything)（Neal Stephenson），美国科幻小说家，"元宇宙"一词的创造者
