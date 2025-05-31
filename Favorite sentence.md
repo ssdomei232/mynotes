@@ -46,3 +46,12 @@
 -- [尤德·肯尼特](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)（Yoed Kenett），美国心理学家
 * 人们在夜晚和周末所做的事情，代表了世界上所有未充分利用的时间和精力。
 -- [安德鲁·陈《冷启动问题》](https://andrewchen.com/solve-a-hard-problem-cold-start-problem/)
+* 加尔定律经常被引用："一个有效的复杂系统，总是从一个有效的简单系统进化而来。"
+但是，它的推论很少被引用："一个从零开始设计的复杂系统永远不会有效，你必须从一个可以运行的简单系统开始。"
+-- [Stack Staves](https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/)
+* 宇宙有两种可能：要么我们是孤独的，要么我们并不孤独。这两种可能性都同样令人恐惧。
+-- [阿瑟·克拉克](https://www.planetary.org/articles/the-fermi-paradox-where-are-all-the-aliens)，英国著名科幻小说家
+* 我关注了一些教育工作者，他们都报告了同样的现象：他们的学生什么事情都用 ChatGPT，结果什么也没学到。
+
+最终可能会出现这样一代人，自己的智力很低下，完全依赖于他们不理解的技术，一旦技术崩溃，他们永远无法从头开始重建。
+-- [尼尔·斯蒂芬森](https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything)（Neal Stephenson），美国科幻小说家，"元宇宙"一词的创造者
