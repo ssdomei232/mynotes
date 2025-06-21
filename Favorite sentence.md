@@ -78,3 +78,7 @@
 -- [《这个时代，没人在乎你写了什么》](https://dansinker.com/posts/2025-05-23-who-cares/)
 * 我们生命中最美好的时刻，并非是那些接受给予、放松享受的时刻，而是那些为了完成一件困难而有价值的事情，自愿将身心发挥到极限的时刻。
 ---- [米哈里·契克森米哈赖](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)，"心流"（flow）概念的提出者
+* 政府的软件采购方式，花费大量资金，引发大量新闻报道，涉及大量人员，但最终不会有一款软件真正进入工作，用户仍将使用 Excel 处理所有事情，使用 PowerPoint 生成幻灯片。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44294696)，评论美国国防部向 OpenAI [采购2亿美元 AI 模型](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
+* 我担心，以后在重要的媒体中，实质性内容将逐渐衰落，30秒的片段会流行，节目只具有最低的共识，充斥着对伪科学和迷信的盲目介绍，尤其还有一种对无知的庆祝。
+-- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)，美国著名科普作家，这段话写于1994年
