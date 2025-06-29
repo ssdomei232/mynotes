@@ -82,3 +82,5 @@
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=44294696)，评论美国国防部向 OpenAI [采购2亿美元 AI 模型](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
 * 我担心，以后在重要的媒体中，实质性内容将逐渐衰落，30秒的片段会流行，节目只具有最低的共识，充斥着对伪科学和迷信的盲目介绍，尤其还有一种对无知的庆祝。
 -- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)，美国著名科普作家，这段话写于1994年
+* 社会的危机，不是人变得孤独，而是人变得隐形、没有用处、可有可无。
+-- [《隐形的人》](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
