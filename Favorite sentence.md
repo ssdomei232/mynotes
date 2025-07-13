@@ -84,3 +84,10 @@
 -- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)，美国著名科普作家，这段话写于1994年
 * 社会的危机，不是人变得孤独，而是人变得隐形、没有用处、可有可无。
 -- [《隐形的人》](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
+* 2022年11月30日是一个永载史册的日子，就像第一颗原子弹爆炸，OpenAI 公司推出了 ChatGPT，从此人类再也没有了未被 AI 污染的新数据。
+-- [theregister.com](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
+* 孤独是一个建筑问题。
+现在的很多建筑物，不利于人们聚集。我们需要的建筑物，应该是方便步行，并且免费，不属于任何人。以前的城市，有很多这样的地方。
+-- [《如何走出家门》](https://buttondown.com/monteiro/archive/how-to-leave-the-house/)
+* 我感觉，如果美国取消芯片出口管制，中国政府就会实施芯片的进口管制，以保护国内芯片产业，打造一个真正能与英伟达/台积电/苹果/谷歌抗衡的芯片制造商。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44442771)
