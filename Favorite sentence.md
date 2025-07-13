@@ -91,3 +91,10 @@
 -- [《如何走出家门》](https://buttondown.com/monteiro/archive/how-to-leave-the-house/)
 * 我感觉，如果美国取消芯片出口管制，中国政府就会实施芯片的进口管制，以保护国内芯片产业，打造一个真正能与英伟达/台积电/苹果/谷歌抗衡的芯片制造商。
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=44442771)
+* AI 不缺乏知识，它的问题是不会怀疑现有知识。
+要让 AI 变成爱因斯坦，仅仅让它无所不知是不够的，更需要让它能够提出别人未曾想到或不敢问的问题。
+-- [托马斯·沃尔夫](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)（Thomas Wolf），Hugging Face 联合创始人
+* 如果你把爱好当成职业，想以此养活自己，一段时间后，最初的兴奋消退了，你就会发现，开始阶段根本不算什么，真正的困难在后面，无数繁琐和重复的工作正等着你。
+这个时刻被称为"放弃点"（quitting point），很多人会在这个时点选择放弃。
+每个人的放弃点不一样，但都会到来。作家的放弃点，也许是小说写到第30页，最初的灵感枯竭，不知道怎么写下去。创业者的放弃点，也许是最初的几个月之后，市场的反应不像朋友和家人那样热烈。艺术家的放弃点，也许是作品第一次上架后，意识到自己的愿景与能力之间存在巨大差距。
+-- [《眼光过高是一种自我破坏》](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
