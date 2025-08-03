@@ -103,3 +103,5 @@
 -- [Andrej Karpathy](https://rlancemartin.github.io/2025/06/23/context_engineering/)，著名 AI 科学家
 * 假定 AI 每一步的正确率是95%，那么使用20步后，整个项目的正确率将只有36%。
 -- [《为什么我不好看当前的 AI 智能体》](https://utkarshkanwat.com/writing/betting-against-agents/)
+* 迟早有一天，互联网将变成一个信息污水池，99%都是 AI 生成的信息污水，搜索引擎不再有效。
+--[《GPT 可能是一种信息病毒》](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
