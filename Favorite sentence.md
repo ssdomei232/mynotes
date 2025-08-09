@@ -105,3 +105,6 @@
 -- [《为什么我不好看当前的 AI 智能体》](https://utkarshkanwat.com/writing/betting-against-agents/)
 * 迟早有一天，互联网将变成一个信息污水池，99%都是 AI 生成的信息污水，搜索引擎不再有效。
 --[《GPT 可能是一种信息病毒》](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
+* 最糟糕的情况是，一个不懂编程的人使用 AI，编写出了一个需要长期维护的大型项目。这就好比把信用卡交给不懂事的孩子。
+一旦代码出问题，如果你不理解代码，就只能让 AI 为你修复，这就像用一张信用卡偿还另一张信用卡的债务。
+-- [《氛围编程是技术债》](https://simonwillison.net/2025/Jul/30/steve-krouse/)
