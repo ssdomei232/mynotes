@@ -858,6 +858,5 @@ BTW，Python 来实现这种解密操作，方便是方便，就是太慢了，�
 
    [回复](javascript:void\(0\);) [引用](javascript:void\(0\);)
 
-[#12楼](https://www.cnblogs.com/cyx-b/p/13443003.html#5357737) 2025-05-22 18:23 [Mz1](https://www.cnblogs.com/Mz1-rc/) ![](https://assets.cnblogs.com/vip.png "博客园VIP会员")
-
+[#12楼](https://www.cnblogs.com/cyx-b/p/13443003.html#5357737) 2025-05-22 18:23 [Mz1](https://www.cnblogs.com/Mz1-rc/) 
 AES的key是动态调试取出的，往上分析有类似于base62等一堆运算。见00007FFD79048A00函数(cloudmusic.dll, base:0x7FFD783F0000)，调用openssl库进行aes解密。
