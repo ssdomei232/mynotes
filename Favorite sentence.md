@@ -108,3 +108,5 @@
 * 最糟糕的情况是，一个不懂编程的人使用 AI，编写出了一个需要长期维护的大型项目。这就好比把信用卡交给不懂事的孩子。
 一旦代码出问题，如果你不理解代码，就只能让 AI 为你修复，这就像用一张信用卡偿还另一张信用卡的债务。
 -- [《氛围编程是技术债》](https://simonwillison.net/2025/Jul/30/steve-krouse/)
+* AI 不会减少你掌握新技能所需要付出的努力，只会让你产生不必学习就已经学会的错觉。
+-- [《AI 让人产生虚假的掌控感》](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
