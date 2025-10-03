@@ -110,3 +110,5 @@
 -- [《氛围编程是技术债》](https://simonwillison.net/2025/Jul/30/steve-krouse/)
 * AI 不会减少你掌握新技能所需要付出的努力，只会让你产生不必学习就已经学会的错觉。
 -- [《AI 让人产生虚假的掌控感》](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
+* 今天的计算机是响应者（responder）：你让它做某事，它就会去做。下一阶段的计算机是"代理"（agent），它就像一个盒子里的小人，开始预测你想要什么。它不是帮助你，而是引导你处理大量的信息，就像你在盒子里有一个小伙伴。
+-- [乔布斯](https://simonwillison.net/2025/Sep/18/steve-jobs/)，1984年的采访
