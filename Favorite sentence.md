@@ -112,3 +112,5 @@
 -- [《AI 让人产生虚假的掌控感》](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
 * 今天的计算机是响应者（responder）：你让它做某事，它就会去做。下一阶段的计算机是"代理"（agent），它就像一个盒子里的小人，开始预测你想要什么。它不是帮助你，而是引导你处理大量的信息，就像你在盒子里有一个小伙伴。
 -- [乔布斯](https://simonwillison.net/2025/Sep/18/steve-jobs/)，1984年的采访
+* 程序员对待 AI 有两种态度：一种以结果为导向，渴望通过 AI 更快拿到结果；另一种以过程为导向，他们从工程本身获得意义，对于被剥夺这种体验感到不满。
+-- [Ben Werdmuller](https://simonwillison.net/2026/Jan/2/ben-werdmuller/)
