@@ -114,3 +114,9 @@
 -- [乔布斯](https://simonwillison.net/2025/Sep/18/steve-jobs/)，1984年的采访
 * 程序员对待 AI 有两种态度：一种以结果为导向，渴望通过 AI 更快拿到结果；另一种以过程为导向，他们从工程本身获得意义，对于被剥夺这种体验感到不满。
 -- [Ben Werdmuller](https://simonwillison.net/2026/Jan/2/ben-werdmuller/)
+* AI 带来的问题，不在于机器人即将到来，而在于你不知道自己究竟应该擅长什么。
+-- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+* AI 公司总是说，由于他们的工具，人们可以专注于更高价值的工作。但是，没人能够定义，高价值工作究竟是什么工作。
+-- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+* 如果你的朋友安装了 OpenClaw，就不要使用他们的电脑，你输入的任何密码都可能泄漏。
+-- [《OpenClaw 简直就是一颗定时炸弹》](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
