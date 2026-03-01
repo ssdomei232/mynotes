@@ -120,3 +120,5 @@
 -- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
 * 如果你的朋友安装了 OpenClaw，就不要使用他们的电脑，你输入的任何密码都可能泄漏。
 -- [《OpenClaw 简直就是一颗定时炸弹》](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
+* 创造力需要你有勇气去放弃确定性。
+-- [埃里希·弗罗姆](https://newsletter.squishy.computer/p/folding-context)，德国哲学家
