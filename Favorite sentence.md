@@ -132,3 +132,10 @@
 -- [《阅读商战书籍是浪费时间》](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
 * 时间是唯一不可再生的资源。AI 大模型是目前我所知的最便宜的赚取额外时间的方式。
 -- [《不要太看重 AI 大模型的订阅费》](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
+* 领导力就是让别人去做你想让他们做的事，而且是心甘情愿的。
+-- [艾森豪威尔](https://hebfdn.org/portfolio/eisenhower-on-leadership/)，美国前总统
+* 写作的目的不在于写完，而在于增进你自己的理解，进而增进周围人的理解。
+让 AI 为你写作，就像花钱请人为你健身一样。
+-- [《别让 AI 替你写作》](https://alexhwoods.com/dont-let-ai-write-for-you/)
+* 程序员的工作不是编程，而是通过抽象，来管理软件的复杂性。如果你做到了这一点，那么编程就很容易了。
+-- [《你的工作不是编程》](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
