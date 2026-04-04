@@ -127,3 +127,6 @@
 （2）实现非常有价值的工作流程，以技能或 MCP 服务器的形式暴露出来。
 （3）改进测试和命令行工具的输出，使其带有更多信息。
 -- [《AI=true 是反模式》](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
+* 阅读商战书籍是浪费时间。它们将简单的故事变成通用的建议，将偶然的成功转化为普遍的策略，并用激励人心的口号取代复杂的市场。
+这些书的成功并不是因为内容正确，而是因为易于阅读并且让读者感觉良好。
+-- [《阅读商战书籍是浪费时间》](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
