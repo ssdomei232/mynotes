@@ -122,3 +122,8 @@
 -- [《OpenClaw 简直就是一颗定时炸弹》](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
 * 创造力需要你有勇气去放弃确定性。
 -- [埃里希·弗罗姆](https://newsletter.squishy.computer/p/folding-context)，德国哲学家
+* 让我非常惊讶的是，人们最近突然开始做一些早就应该做的事情：
+（1）撰写简洁、直截了当的文档，把它放在 AGENTS.md 文件里。
+（2）实现非常有价值的工作流程，以技能或 MCP 服务器的形式暴露出来。
+（3）改进测试和命令行工具的输出，使其带有更多信息。
+-- [《AI=true 是反模式》](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
