@@ -130,3 +130,5 @@
 * 阅读商战书籍是浪费时间。它们将简单的故事变成通用的建议，将偶然的成功转化为普遍的策略，并用激励人心的口号取代复杂的市场。
 这些书的成功并不是因为内容正确，而是因为易于阅读并且让读者感觉良好。
 -- [《阅读商战书籍是浪费时间》](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
+* 时间是唯一不可再生的资源。AI 大模型是目前我所知的最便宜的赚取额外时间的方式。
+-- [《不要太看重 AI 大模型的订阅费》](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
