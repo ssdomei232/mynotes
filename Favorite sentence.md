@@ -139,3 +139,5 @@
 -- [《别让 AI 替你写作》](https://alexhwoods.com/dont-let-ai-write-for-you/)
 * 程序员的工作不是编程，而是通过抽象，来管理软件的复杂性。如果你做到了这一点，那么编程就很容易了。
 -- [《你的工作不是编程》](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
+* 高校都要求博士生发表论文，至于你写什么、怎么写的、内容与研究方向有没有关系，系里其实都不在意。系里需要论文，因为论文能证明经费的合理性，而经费又能证明系的存在价值。学生只不过是达成这个目标的生产资料。
+-- [《机器没问题，有问题的是我们自己》](https://ergosphere.blog/posts/the-machines-are-fine/)
