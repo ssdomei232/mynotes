@@ -141,3 +141,12 @@
 -- [《你的工作不是编程》](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 * 高校都要求博士生发表论文，至于你写什么、怎么写的、内容与研究方向有没有关系，系里其实都不在意。系里需要论文，因为论文能证明经费的合理性，而经费又能证明系的存在价值。学生只不过是达成这个目标的生产资料。
 -- [《机器没问题，有问题的是我们自己》](https://ergosphere.blog/posts/the-machines-are-fine/)
+* 过去一两年，我一直完全依赖 AI 进行编程，自己一行代码都没写过。
+有一天，我自己动手写了一篇文章，没有用 AI，但写完后我忍不住把它复制粘贴到 Claude 里，看看 AI 怎么想，因为我担心文章逻辑混乱、文笔幼稚，或者漏掉了什么内容。这就是大量使用 AI 的后果，它让你滋生自我怀疑，我已经不太相信自己，更相信 AI 了。
+-- [《该死的 AI 把我变笨了》](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+* 我建议放慢速度，给自己一些时间，思考你到底在构建什么，以及为什么要构建。这样你才有机会告诉自己"不，我们不需要这个"。
+-- [《放慢速度》](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
+* AI 可以一对一的定制化教育，效果更好，大学对很多人将变得没有价值。
+-- [萨姆·奥特曼](https://fortune.com/2025/07/24/sam-altman-college-not-working-great-stanford-dropout/)（Sam Altman），OpenAI 公司首席执行官
+* 谋生方式有三种：（1）对想听假话的人说假话，你就能发财。（2）对想听真话的人说真话，你可以维持温饱。（3）对想听假话的人说真话，你会破产。
+-- [《三种谋生方式》](https://jasonzweig.com/three-ways-to-get-paid/)
