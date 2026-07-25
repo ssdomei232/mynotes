@@ -150,3 +150,5 @@
 -- [萨姆·奥特曼](https://fortune.com/2025/07/24/sam-altman-college-not-working-great-stanford-dropout/)（Sam Altman），OpenAI 公司首席执行官
 * 谋生方式有三种：（1）对想听假话的人说假话，你就能发财。（2）对想听真话的人说真话，你可以维持温饱。（3）对想听假话的人说真话，你会破产。
 -- [《三种谋生方式》](https://jasonzweig.com/three-ways-to-get-paid/)
+* AI 的真正风险不在于使人懒惰，而在于让"懒惰"看起来像"高效"。花十分钟读一篇摘要，把它发到社交媒体上，你感觉自己很高效，但实际上什么都没记住。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=47555081)
